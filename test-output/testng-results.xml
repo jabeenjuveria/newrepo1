@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[TEST HAS STARTED RUNNING :customerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[TEST IS SUCCESS :customerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\MARS\projectnew\src\main\java\com\test\automation\uiAutomation\passScreenShots\customerRegistration_223_08_2018_17_08_169.png'> <img src='C:\Users\MARS\projectnew\src\main\java\com\test\automation\uiAutomation\passScreenShots\customerRegistration_223_08_2018_17_08_169.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28616" started-at="2018-08-11T21:32:46Z" finished-at="2018-08-11T21:33:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28616" started-at="2018-08-11T21:32:46Z" finished-at="2018-08-11T21:33:14Z">
+      <class name="myNewProject.projectnew.TC001">
+        <test-method status="PASS" signature="startProcess()[pri:0, instance:myNewProject.projectnew.TC001@7276c8cd]" name="startProcess" is-config="true" duration-ms="19070" started-at="2018-08-11T17:32:46Z" finished-at="2018-08-11T17:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:myNewProject.projectnew.TC001@7276c8cd]" name="beforeMethod" is-config="true" duration-ms="187" started-at="2018-08-11T17:33:05Z" finished-at="2018-08-11T17:33:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void myNewProject.projectnew.TC001.customerRegistration() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="customerRegistration()[pri:0, instance:myNewProject.projectnew.TC001@7276c8cd]" name="customerRegistration" duration-ms="8850" started-at="2018-08-11T17:33:05Z" finished-at="2018-08-11T17:33:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TEST HAS STARTED RUNNING :customerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[TEST IS SUCCESS :customerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\MARS\projectnew\src\main\java\com\test\automation\uiAutomation\passScreenShots\customerRegistration_223_08_2018_17_08_169.png'> <img src='C:\Users\MARS\projectnew\src\main\java\com\test\automation\uiAutomation\passScreenShots\customerRegistration_223_08_2018_17_08_169.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerRegistration -->
+        <test-method status="PASS" signature="endProcess()[pri:0, instance:myNewProject.projectnew.TC001@7276c8cd]" name="endProcess" is-config="true" duration-ms="1" started-at="2018-08-11T17:33:14Z" finished-at="2018-08-11T17:33:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:myNewProject.projectnew.TC001@7276c8cd]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-08-11T17:33:14Z" finished-at="2018-08-11T17:33:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerRegistration status=SUCCESS method=TC001.customerRegistration()[pri:0, instance:myNewProject.projectnew.TC001@7276c8cd] output=TEST HAS STARTED RUNNING :customerRegistration]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- myNewProject.projectnew.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

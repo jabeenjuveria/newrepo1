@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[TEST HAS STARTED RUNNING :customerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[TEST IS SUCCESS :customerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\MARS\projectnew\src\main\java\com\test\automation\uiAutomation\passScreenShots\customerRegistration_233_08_2018_10_08_924.png'> <img src='C:\Users\MARS\projectnew\src\main\java\com\test\automation\uiAutomation\passScreenShots\customerRegistration_233_08_2018_10_08_924.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18991" started-at="2018-08-21T14:41:00Z" finished-at="2018-08-21T14:41:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18991" started-at="2018-08-21T14:41:00Z" finished-at="2018-08-21T14:41:19Z">
+      <class name="myNewProject.projectnew.TC001">
+        <test-method status="PASS" signature="startProcess(java.lang.String)[pri:0, instance:myNewProject.projectnew.TC001@528931cf]" name="startProcess" is-config="true" duration-ms="10319" started-at="2018-08-21T10:41:00Z" finished-at="2018-08-21T10:41:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:myNewProject.projectnew.TC001@528931cf]" name="beforeMethod" is-config="true" duration-ms="175" started-at="2018-08-21T10:41:10Z" finished-at="2018-08-21T10:41:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void myNewProject.projectnew.TC001.customerRegistration() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="customerRegistration()[pri:0, instance:myNewProject.projectnew.TC001@528931cf]" name="customerRegistration" duration-ms="8117" started-at="2018-08-21T10:41:10Z" finished-at="2018-08-21T10:41:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TEST HAS STARTED RUNNING :customerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[TEST IS SUCCESS :customerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\MARS\projectnew\src\main\java\com\test\automation\uiAutomation\passScreenShots\customerRegistration_233_08_2018_10_08_924.png'> <img src='C:\Users\MARS\projectnew\src\main\java\com\test\automation\uiAutomation\passScreenShots\customerRegistration_233_08_2018_10_08_924.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerRegistration -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:myNewProject.projectnew.TC001@528931cf]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-21T10:41:19Z" finished-at="2018-08-21T10:41:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerRegistration status=SUCCESS method=TC001.customerRegistration()[pri:0, instance:myNewProject.projectnew.TC001@528931cf] output=TEST HAS STARTED RUNNING :customerRegistration]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endProcess()[pri:0, instance:myNewProject.projectnew.TC001@528931cf]" name="endProcess" is-config="true" duration-ms="0" started-at="2018-08-21T10:41:19Z" finished-at="2018-08-21T10:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+      </class> <!-- myNewProject.projectnew.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
